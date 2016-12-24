@@ -1,0 +1,14 @@
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\bin\Debug\Time calc.exe.config
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\bin\Debug\Time calc.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\bin\Debug\Time calc.pdb
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\Time calc.csprojResolveAssemblyReference.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\MainWindow.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\App.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\Time calc_MarkupCompile.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\Time calc_MarkupCompile.lref
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\MainWindow.baml
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\Time calc.g.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\Time_calc.Properties.Resources.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\Time calc.csproj.GenerateResource.Cache
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\Time calc.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Time calc\Time calc\obj\Debug\Time calc.pdb
